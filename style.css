@@ -6,15 +6,16 @@
   margin: 0;
   padding: 10px;
   display: block;
-  background: #333;
-  color: #fff;
-  border-top: 1px solid #fff;
+  background: #ffa500;
+  color: #000;
+  border-top: 1px double #fff;
   border-radius: 10px 10px 10px 10px;
 }
 .accordion-contents {
   margin: 0;
   padding: 10px;
-  border: 1px solid #ccc;
+  background: #ffe7bf;
+  border: 1px double #ccc;
   border-radius: 10px 10px 10px 10px;
   display: none;
 }
