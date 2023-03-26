@@ -16,3 +16,6 @@
   border: 1px solid #ccc;
   display: none;
 }
+p {
+  cursor: pointer;
+}
