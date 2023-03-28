@@ -22,3 +22,8 @@
 p {
   cursor: pointer;
 }
+
+.responsive {
+  width: 100%;
+  aspect-ratio: 16/9;
+}
